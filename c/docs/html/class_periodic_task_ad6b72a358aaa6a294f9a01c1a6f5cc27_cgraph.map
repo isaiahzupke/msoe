@@ -1,0 +1,8 @@
+<map id="PeriodicTask::run" name="PeriodicTask::run">
+<area shape="rect" id="node2" href="$class_runnable_class.html#a58a7fc86a58f193a4c35cb7f1f42e624" title="RunnableClass::start" alt="" coords="193,45,339,71"/>
+<area shape="rect" id="node6" href="$class_periodic_task.html#a94968311f9948cb49fa68e0cab418ba7" title="PeriodicTask::taskMethod" alt="" coords="179,95,353,122"/>
+<area shape="rect" id="node7" href="$class_periodic_task.html#a4331989ad1a0a2a3323812ca901932b1" title="PeriodicTask::waitForNext\lExecution" alt="" coords="177,147,355,188"/>
+<area shape="rect" id="node3" href="$class_runnable_class.html#a07535dc5771f99f9dcff323104bd1828" title="RunnableClass::startChild\lRunnables" alt="" coords="406,5,581,47"/>
+<area shape="rect" id="node4" href="$class_runnable_class.html#a5a7024fad74aa249a4bb98fde8a87ea8" title="RunnableClass::invokeRun\lMethod" alt="" coords="403,71,584,112"/>
+<area shape="rect" id="node5" href="$class_runnable_class.html#a19ad4f117cab31273eff457c5083fc09" title="RunnableClass::run" alt="" coords="632,78,769,105"/>
+</map>

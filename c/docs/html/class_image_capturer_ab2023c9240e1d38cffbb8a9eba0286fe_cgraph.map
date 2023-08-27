@@ -1,0 +1,9 @@
+<map id="ImageCapturer::taskMethod" name="ImageCapturer::taskMethod">
+<area shape="rect" id="node2" href="$class_runnable_class.html#a58a7fc86a58f193a4c35cb7f1f42e624" title="RunnableClass::start" alt="" coords="260,45,405,71"/>
+<area shape="rect" id="node6" href="$class_camera.html#a528e718c4df254e562693b20de44fe1b" title="Camera::takePicture" alt="" coords="261,95,404,122"/>
+<area shape="rect" id="node7" href="$class_image_transmitter.html#a63f42f85d9095c8d6880e508ed427fa9" title="ImageTransmitter::stream\lImage" alt="" coords="247,147,419,188"/>
+<area shape="rect" id="node8" href="$class_periodic_task.html#aea3c9ab562a084b61c3b3f0f974168a5" title="PeriodicTask::getTaskPeriod" alt="" coords="237,213,428,239"/>
+<area shape="rect" id="node3" href="$class_runnable_class.html#a07535dc5771f99f9dcff323104bd1828" title="RunnableClass::startChild\lRunnables" alt="" coords="479,5,654,47"/>
+<area shape="rect" id="node4" href="$class_runnable_class.html#a5a7024fad74aa249a4bb98fde8a87ea8" title="RunnableClass::invokeRun\lMethod" alt="" coords="476,71,657,112"/>
+<area shape="rect" id="node5" href="$class_runnable_class.html#a19ad4f117cab31273eff457c5083fc09" title="RunnableClass::run" alt="" coords="705,78,843,105"/>
+</map>

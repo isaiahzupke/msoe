@@ -1,0 +1,6 @@
+<map id="ImageCapturer" name="ImageCapturer">
+<area shape="rect" id="node2" href="$class_periodic_task.html" title="PeriodicTask" alt="" coords="11,81,110,108"/>
+<area shape="rect" id="node4" href="$class_camera.html" title="Camera" alt="" coords="83,157,151,184"/>
+<area shape="rect" id="node3" href="$class_runnable_class.html" title="RunnableClass" alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node5" href="$class_image_transmitter.html" title="ImageTransmitter" alt="" coords="175,157,299,184"/>
+</map>

@@ -1,0 +1,4 @@
+/media/sf_lwshare/2020-lab-8-is--isaiahzupke/c/build/CMakeFiles/rebuild_cache.dir
+/media/sf_lwshare/2020-lab-8-is--isaiahzupke/c/build/CMakeFiles/edit_cache.dir
+/media/sf_lwshare/2020-lab-8-is--isaiahzupke/c/build/CMakeFiles/docs.dir
+/media/sf_lwshare/2020-lab-8-is--isaiahzupke/c/build/CMakeFiles/PiImageStreamer.dir

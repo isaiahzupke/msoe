@@ -1,0 +1,5 @@
+<map id="PeriodicTask" name="PeriodicTask">
+<area shape="rect" id="node3" href="$class_camera.html" title="Camera" alt="" coords="5,155,73,181"/>
+<area shape="rect" id="node4" href="$class_image_capturer.html" title="ImageCapturer" alt="" coords="97,155,205,181"/>
+<area shape="rect" id="node2" href="$class_runnable_class.html" title="RunnableClass" alt="" coords="40,5,151,32"/>
+</map>

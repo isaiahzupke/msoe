@@ -1,0 +1,5 @@
+<map id="RunnableClass::start" name="RunnableClass::start">
+<area shape="rect" id="node2" href="$class_image_capturer.html#ab2023c9240e1d38cffbb8a9eba0286fe" title="ImageCapturer::taskMethod" alt="" coords="199,5,383,32"/>
+<area shape="rect" id="node3" href="$class_periodic_task.html#ad6b72a358aaa6a294f9a01c1a6f5cc27" title="PeriodicTask::run" alt="" coords="229,56,353,83"/>
+<area shape="rect" id="node4" href="$class_runnable_class.html#adf703f12a3d3ed432cfa756aadccd710" title="RunnableClass::start" alt="" coords="218,107,363,133"/>
+</map>

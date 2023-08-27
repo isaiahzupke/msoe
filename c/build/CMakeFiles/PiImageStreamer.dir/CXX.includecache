@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_lwshare/2020-lab-8-is--isaiahzupke/c/src/Camera.cpp
+Camera.h
+/media/sf_lwshare/2020-lab-8-is--isaiahzupke/c/src/Camera.h
+chrono
+-
+
+/media/sf_lwshare/2020-lab-8-is--isaiahzupke/c/src/Camera.h
+PeriodicTask.h
+/media/sf_lwshare/2020-lab-8-is--isaiahzupke/c/src/PeriodicTask.h
+opencv2/opencv.hpp
+-
+mutex
+-
+
+/media/sf_lwshare/2020-lab-8-is--isaiahzupke/c/src/PeriodicTask.h
+RunnableClass.h
+/media/sf_lwshare/2020-lab-8-is--isaiahzupke/c/src/RunnableClass.h
+chrono
+-
+
+/media/sf_lwshare/2020-lab-8-is--isaiahzupke/c/src/RunnableClass.h
+thread
+-
+string
+-
+list
+-
+sys/types.h
+-
+
